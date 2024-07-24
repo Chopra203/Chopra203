@@ -3,7 +3,7 @@
 <br>Machine Learning: Statistical Analysis<br> 
 <br>Programming: SQL, Python (NumPy, pandas, Seaborn, Matplotlib, Tkinter)<br> 
 <br>Tools: Tableau, Power BI, Alteryx, GitHub, Streamlit, Figma<br> 
-<br>Soft Skills: Leadership, Team management, Attention to detail, Agile <br><br>Portfolio/Projects:<br>https://public.tableau.com/app/profile/shivam.chopra/vizzes<br><br>Website:https://www.shivamchopra.com/<br>
+<br>Soft Skills: Leadership, Team management, Attention to detail, Agile <br><br>Portfolio/Projects:<br>https://public.tableau.com/app/profile/shivam.chopra/vizzes<br><br>https://www.shivamchopra.com/<br>
 
 
 ## 🌐 Socials:
