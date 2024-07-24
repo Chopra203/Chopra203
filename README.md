@@ -1,5 +1,5 @@
 # 💫 About Me:
-📊 Aspiring Data Analyst | MSc in Sports Analytics | Football Enthusiast ⚽<br><br>I'm a dedicated and goal-oriented individual with a strong passion for football and a focus on data analysis.<br><br>🎓 Education & Certification:<br>Currently pursuing MSc in Sports Analytics, and UEFA B coaching license candidate.<br><br>📈 Technical Skills:<br>Proficient in Microsoft Office applications and experienced in utilizing analysis and visualization software like Nacsport, Wyscout, and Tableau, along with intermediate knowledge of python and SQL.<br><br>Portfolio/Projects:<br>https://public.tableau.com/app/profile/shivam.chopra/vizzes
+📊  Data Analyst | MSc in Sports Analytics | UEFA B Coach ⚽<br><br>I'm a dedicated and goal-oriented individual with a strong passion for football and a focus on data analysis.<br><br>🎓 Education & Certification:<br>Currently pursuing MSc in Sports Analytics, and UEFA B coaching license candidate.<br><br>📈 Technical Skills:<br>Proficient in Microsoft Office applications and experienced in utilizing analysis and visualization software like Nacsport, Wyscout, and Tableau, along with intermediate knowledge of python and SQL.<br><br>Portfolio/Projects:<br>https://public.tableau.com/app/profile/shivam.chopra/vizzes
 
 
 ## 🌐 Socials:
